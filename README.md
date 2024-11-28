@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @a0x
-- 👀 Focus on Data Engineering, specially on Spark, Iceberg, Airflow etc.
+- 👀 Focus on Data Engineering, especially on Spark, Iceberg, Airflow etc.
 - 💎 Previously Ruby on Rails developer
 - 💞️ Python/Ruby/Java/Golang
 
