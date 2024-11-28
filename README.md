@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @a0x
 - 👀 Focus on Data Engineering, especially on Spark, Iceberg, Airflow etc.
-- 💎 Previously Ruby on Rails developer
+- 💎 Previously Ruby on Rails developer, with extensive dev experience and architectural capabilities
 - 💞️ Python/Ruby/Java/Golang
 
 <!---
