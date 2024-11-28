@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @a0x
-- 👀 Focus on Data Engineering, especially on Spark, Iceberg, Airflow etc.
-- 💎 Previously Ruby on Rails developer, with extensive dev experience and architectural capabilities
-- 💞️ Python/Ruby/Java/Golang
+- 👀 Focus on Data Engineering, especially on `Spark`, `Iceberg`, `Airflow` etc.
+- 💎 Previously `Ruby on Rails` developer, with extensive dev experience and architectural capabilities
+- 💞️ `Python`/`Ruby`/`Java`/`Golang`
 
 <!---
 a0x/a0x is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
